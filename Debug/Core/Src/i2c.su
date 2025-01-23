@@ -1,0 +1,14 @@
+../Core/Src/i2c.c:46:6:MX_I2C1_Init	8	static
+../Core/Src/i2c.c:75:6:HAL_I2C_MspInit	48	static
+../Core/Src/i2c.c:105:6:HAL_I2C_MspDeInit	16	static
+../Core/Src/i2c.c:131:9:MS5837_init	32	static
+../Core/Src/i2c.c:160:6:MS5837_setModel	16	static
+../Core/Src/i2c.c:164:6:MS5837_setFluidDensity	16	static
+../Core/Src/i2c.c:168:9:MS5837_read	32	static
+../Core/Src/i2c.c:203:6:MS5837_calculate	592	static
+../Core/Src/i2c.c:276:7:MS5837_pressure	16	static
+../Core/Src/i2c.c:285:7:MS5837_temperature	4	static
+../Core/Src/i2c.c:289:7:MS5837_depth	16	static
+../Core/Src/i2c.c:293:7:MS5837_altitude	8	static
+../Core/Src/i2c.c:297:9:MS5837_crc4	24	static
+../Core/Src/i2c.c:323:6:read_depth	4	static
